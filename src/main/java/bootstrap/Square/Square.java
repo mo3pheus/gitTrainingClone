@@ -4,9 +4,9 @@ import bootstrap.IsShape;
 
 public class Square implements IsShape {
 
-    int sideLength;
+    double sideLength;
 
-    public Square(int sideLength) {
+    public Square(double sideLength) {
         this.sideLength = sideLength;
     }
 
