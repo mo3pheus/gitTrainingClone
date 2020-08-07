@@ -1,1 +1,1 @@
-gitTrainingClone
+gitTraining
